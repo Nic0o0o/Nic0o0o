@@ -1,4 +1,4 @@
-### Hello there  
+### Hi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0o0o&layout=compact)](https://github.com/Nic0o0o/github-readme-stats)
 <!--
